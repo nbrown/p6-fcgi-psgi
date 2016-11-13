@@ -7,5 +7,5 @@
     "provides" : {
         "FastCGI::NativeCall::PSGI" : "lib/FastCGI/NativeCall/PSGI.pm6"
     },
-    "source-url" : "git://github.com/carbin/p6-fcgi-psgi.git"
+    "source-url" : "git://github.com/nbrown/p6-fcgi-psgi.git"
 }
